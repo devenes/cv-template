@@ -239,18 +239,17 @@ p {
     right: 2rem;
     font-size: 0.7rem;
     text-align: center;
-
     /* top:2.3rem;
-			display:flex;
-			justify-content: space-between;
-			align-items: center;
-			flex-direction: row;
-			text-align: left;
-			width: 240px;
-			font-size:0.7rem;    
-			padding: 0.7rem 0.5rem 0.5rem 0.5rem;
-			border: 2px solid;
-			border-radius: 8px; */
+    display:flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-direction: row;
+    text-align: left;
+    width: 240px;
+    font-size:0.7rem;    
+    padding: 0.7rem 0.5rem 0.5rem 0.5rem;
+    border: 2px solid;
+    border-radius: 8px; */
 }
 
 .logo-holder img {
